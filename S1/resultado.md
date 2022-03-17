@@ -3,6 +3,10 @@
 
 <ol>
   <li>Instalar el software DOSBox y ejecutar aplicaciones de MS-DOS (p.ej. juegos clásicos). </li>
+  dwdw
+  
+  
+  
   <li> Configurar el inicio de DOSBox para que monte en la unidad C: el directorio donde se 
 encuentra el entorno de programación Borland C </li>
   <li>Crear el ejemplo “Hola mundo” en ensamblador, compilarlo y comprobar su 
