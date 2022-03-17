@@ -13,7 +13,6 @@
   concretamente en `C:DOSBOX`. Añadimos tambien la opción para utilizar por defecto el teclado en español e
   indicamos que las utilidades de compilación están en ese path (en c:\bc\bin).
   
-  ![](imgs/1.png)
   
   Además configuramos el tamaño por defecto de la ventana de dosbox para agrandarla un poco:
 
