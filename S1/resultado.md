@@ -41,8 +41,13 @@
   <p>
 
   
-  <li>  Configurar el inicio de DOSBox para que monte en la unidad C: el directorio donde se 
-encuentra el entorno de programación Borland C </li>
-  <li> Crear el ejemplo “Hola mundo” en ensamblador, compilarlo y comprobar su 
-funcionamiento. A continuación incluir un bucle para mostrar el mensaje 7 veces.</li>
+  <li><p><strong>  Configurar el inicio de DOSBox para que monte en la unidad C: el directorio donde se 
+encuentra el entorno de programación Borland C </strong></p></li>
+
+
+
+
+
+  <li> <p><strong>Crear el ejemplo “Hola mundo” en ensamblador, compilarlo y comprobar su 
+funcionamiento. A continuación incluir un bucle para mostrar el mensaje 7 veces.</strong></p></li>
 </ol>
