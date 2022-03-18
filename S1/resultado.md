@@ -80,6 +80,8 @@ Aquí se muestra el resultado de compilar y ensamblar y la ejecución del bucle 
   <img src="img/captura_10.png">
 <p>
 
-
+<p align="center">
+  <img src="img/captura_11.png">
+<p>
 
 </ol>
