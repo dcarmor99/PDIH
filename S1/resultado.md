@@ -63,4 +63,23 @@ Con esto ya podemos tanto compilar ensamblador (.ASM) como C (.C)
 
   <li> <p><strong>Crear el ejemplo “Hola mundo” en ensamblador, compilarlo y comprobar su 
 funcionamiento. A continuación incluir un bucle para mostrar el mensaje 7 veces.</strong></p></li>
+
+Para compilar y enlazar el archivo HOLA.ASM tenemos que hacer uso de los comandos `TASM` (ensamblador) y `TLINK` (enlazador). 
+
+Para que el mensaje "hola" se ejecute 7 veces, tenemos que incluir el siguiente bucle en el archivo HOLA.ASM
+
+
+<p align="center">
+  <img src="img/captura_7.png">
+<p>
+
+Aquí se muestra el resultado de compilar y ensamblar y la ejecución del bucle del mensaje "Hola":
+
+
+<p align="center">
+  <img src="img/captura_6.png">
+<p>
+
+
+
 </ol>
