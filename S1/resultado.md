@@ -13,7 +13,9 @@
   concretamente en `C:DOSBOX`. Añadimos tambien la opción para utilizar por defecto el teclado en español e
   indicamos que las utilidades de compilación están en ese path (en c:\bc\bin).
   
-  ![](img/captura_1.png){ style="display: block; margin: 0 auto" }
+  <p align="center">
+    <img src="img/captura_1.png">
+  <p>
   
   Además configuramos el tamaño por defecto de la ventana de dosbox para agrandarla un poco:
 
