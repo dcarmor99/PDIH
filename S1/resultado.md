@@ -41,11 +41,20 @@
   <p>
 
   
-  <li><p><strong>  Configurar el inicio de DOSBox para que monte en la unidad C: el directorio donde se 
-encuentra el entorno de programación Borland C </strong></p></li>
+  <li>
+      <p>
+          <strong>  Configurar el inicio de DOSBox para que monte en la unidad C: el directorio donde se 
+        encuentra el entorno de programación Borland C .  Añadir a la variable “PATH” de 
+        inicio el directorio “bin” donde se encuentra el ejecutable BC.EXE
+          </strong>
+      </p>
+</li>
 
+El resultado se puede apreciar en la tercera captura de pantalla del apartado anterior. Lo que hago es extraer
+la carpeta `BC` en el directorio principal de DOSBOX. Para añadirlo al path, lo que he tenido que escribir es
+`set path=%path%;c:\bc\bin`
 
-
+Con esto ya podemos tanto compilar ensamblador (.ASM) como C (.C)
 
 
   <li> <p><strong>Crear el ejemplo “Hola mundo” en ensamblador, compilarlo y comprobar su 
