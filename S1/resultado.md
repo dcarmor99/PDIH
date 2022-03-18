@@ -16,6 +16,8 @@
   ![](img/captura_1.png)
   
   Además configuramos el tamaño por defecto de la ventana de dosbox para agrandarla un poco:
+
+  
   ![](img/captura_2.png)
 
   A continuación, muestro como se vería dosbox una vez iniciado y montado en la unidad C: de mi 
