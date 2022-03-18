@@ -2,7 +2,7 @@
 
 
 <ol>
-  <li> Instalar el software DOSBox y ejecutar aplicaciones de MS-DOS (p.ej. juegos clásicos). </li>
+  <li> **Instalar el software DOSBox y ejecutar aplicaciones de MS-DOS (p.ej. juegos clásicos).** </li>
   Para instalar dosbox he seguido uno de los tutoriales que se indican en los enlaces del final del guión
   del seminario. En mi caso, lo he instalado en un Windows 10 de 64 bits.
   
