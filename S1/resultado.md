@@ -2,7 +2,7 @@
 
 
 <ol>
-  <li> #### Instalar el software DOSBox y ejecutar aplicaciones de MS-DOS (p.ej. juegos clásicos). </li>
+  <li> Instalar el software DOSBox y ejecutar aplicaciones de MS-DOS (p.ej. juegos clásicos). </li>
   Para instalar dosbox he seguido uno de los tutoriales que se indican en los enlaces del final del guión
   del seminario. En mi caso, lo he instalado en un Windows 10 de 64 bits.
   
@@ -13,13 +13,23 @@
   concretamente en `C:DOSBOX`. Añadimos tambien la opción para utilizar por defecto el teclado en español e
   indicamos que las utilidades de compilación están en ese path (en c:\bc\bin).
   
+  ![](img/captura_1.png)
   
   Además configuramos el tamaño por defecto de la ventana de dosbox para agrandarla un poco:
+  ![](img/captura_2.png)
 
- 
-  
-  
-  
+  A continuación, muestro como se vería dosbox una vez iniciado y montado en la unidad C: de mi 
+  equipo:
+
+  ![](img/captura_3.png)
+
+  Para mostrar el funcionamiento de DOSBOX, vamos a ejecutar un juego clásico de MS-DOS. En este caso
+  vamos a jugar a Golden. Para ello nos situamos en la carpeta `C:\DOSBOX\JUEGOS` y en la carpeta `golden`
+  ejecutamos GOLD.EXE para arrancar el juego. Nos aparecerá un menú para elegir el tipo de configuración
+  gráfica, en mi caso voy a elegir VGA (256 colores):
+
+  ![](img/captura_4.png)
+
   
   <li> ### Configurar el inicio de DOSBox para que monte en la unidad C: el directorio donde se 
 encuentra el entorno de programación Borland C </li>
