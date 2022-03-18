@@ -56,6 +56,10 @@ la carpeta `BC` en el directorio principal de DOSBOX. Para añadirlo al path, lo
 
 Con esto ya podemos tanto compilar ensamblador (.ASM) como C (.C)
 
+  <p align="center">
+    <img src="img/captura_5.png">
+  <p>
+
 
   <li> <p><strong>Crear el ejemplo “Hola mundo” en ensamblador, compilarlo y comprobar su 
 funcionamiento. A continuación incluir un bucle para mostrar el mensaje 7 veces.</strong></p></li>
