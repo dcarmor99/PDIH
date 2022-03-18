@@ -2,7 +2,7 @@
 
 
 <ol>
-  <li> **Instalar el software DOSBox y ejecutar aplicaciones de MS-DOS (p.ej. juegos clásicos).** </li>
+  <li> <p><strong>Instalar el software DOSBox y ejecutar aplicaciones de MS-DOS (p.ej. juegos clásicos).</strong></p> </li>
   Para instalar dosbox he seguido uno de los tutoriales que se indican en los enlaces del final del guión
   del seminario. En mi caso, lo he instalado en un Windows 10 de 64 bits.
   
@@ -41,8 +41,8 @@
   <p>
 
   
-  <li> ### Configurar el inicio de DOSBox para que monte en la unidad C: el directorio donde se 
+  <li>  Configurar el inicio de DOSBox para que monte en la unidad C: el directorio donde se 
 encuentra el entorno de programación Borland C </li>
-  <li>### Crear el ejemplo “Hola mundo” en ensamblador, compilarlo y comprobar su 
+  <li> Crear el ejemplo “Hola mundo” en ensamblador, compilarlo y comprobar su 
 funcionamiento. A continuación incluir un bucle para mostrar el mensaje 7 veces.</li>
 </ol>
