@@ -19,20 +19,26 @@
   
   Además configuramos el tamaño por defecto de la ventana de dosbox para agrandarla un poco:
 
-
-  ![](img/captura_2.png)
+  <p align="center">
+    <img src="img/captura_2.png">
+  <p>
 
   A continuación, muestro como se vería dosbox una vez iniciado y montado en la unidad C: de mi 
   equipo:
 
-  ![](img/captura_3.png)
+  <p align="center">
+    <img src="img/captura_3.png">
+  <p>
+
 
   Para mostrar el funcionamiento de DOSBOX, vamos a ejecutar un juego clásico de MS-DOS. En este caso
   vamos a jugar a Golden. Para ello nos situamos en la carpeta `C:\DOSBOX\JUEGOS` y en la carpeta `golden`
   ejecutamos GOLD.EXE para arrancar el juego. Nos aparecerá un menú para elegir el tipo de configuración
   gráfica, en mi caso voy a elegir VGA (256 colores):
 
-  ![](img/captura_4.png)
+  <p align="center">
+    <img src="img/captura_4.png">
+  <p>
 
   
   <li> ### Configurar el inicio de DOSBox para que monte en la unidad C: el directorio donde se 
