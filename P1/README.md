@@ -57,5 +57,4 @@ En primer lugar, he implementado un sencillo menú a través de un simple `switc
 ![](capturas/14.png)
 
 ### [9] getche - Obtener carácter de teclado y mostrarlo en pantalla
-![](capturas/15.png)
-
+![](capturas/16.png)
