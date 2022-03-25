@@ -87,7 +87,7 @@ void pausa(void){
    int86(0x16, &inregs, &outregs);
 }
 
-/*
+
 void cls(void){
     union REGS regs;
     regs.h.ah = 15; 
@@ -95,7 +95,7 @@ void cls(void){
     regs.h.ah = 0; 
     int86( 0x10, &regs, &regs );
 }
-*/
+
 
 void poner_color(unsigned char cfondo, unsigned char ctexto){
 	union REGS inregs, outregs;

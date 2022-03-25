@@ -115,7 +115,10 @@ int main()
         textcolor(12); // Cambia el color a LIGHTRED
         cputchar('Y',1); // Escribimos un caracter por pantalla
         pausa();
+        textcolor(7);
+        cputchar('Y',1);
         clrscr();
+        // volvemos a poner valores por defecto de color de texto
       break;
 
       case 6:
@@ -125,6 +128,9 @@ int main()
         textbackground(2);
         cputchar('X',1);
         pausa();
+        textcolor(7);
+        textbackground(0);
+        cputchar('X',1);
         clrscr();
       break;
 
@@ -164,7 +170,9 @@ int main()
 
       break;
     }
-    //cls();
+    clrscr();
+    textcolor(7);
+    textbackground(0);
     return 0;
 
 }
