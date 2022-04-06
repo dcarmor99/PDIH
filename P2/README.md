@@ -10,7 +10,7 @@ El objetivo de la práctica 2 son:
 
 <div style="text-align: justify">
 En la primera parte de la práctica 2 vamos a instalar la librería ncurses, esencial para comenzar a realizar las siguientes partes de la práctica.
-En mi caso, he utilizado una máquina virtual con Ubuntu (versión 20.04 LTS ) de su página oficial [Pagina oficial de Ubuntu](`
+En mi caso, he utilizado una máquina virtual con Ubuntu (versión 20.04 LTS ) de su página oficial [Ubuntu](https://ubuntu.com/download).
 </div>). 
 </div>
 <br/>
