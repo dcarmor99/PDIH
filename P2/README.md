@@ -10,7 +10,6 @@ El objetivo de la práctica 2 son:
 
 <div style="text-align: justify">
 En la primera parte de la práctica 2 vamos a instalar la librería ncurses, esencial para comenzar a realizar las siguientes partes de la práctica.
-En mi caso, he utilizado una máquina virtual con Ubuntu (versión 20.04 LTS ) de su página oficial [Ubuntu](https://ubuntu.com/download).
 </div>). 
 </div>
 <br/>
@@ -19,8 +18,8 @@ Para instalar hacemos uso del siguiente comando:
 ```Bash
 sudo apt-get install libncurses5-dev libncursesw5-dev
 ```
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 
+En mi caso, he utilizado una máquina virtual con Ubuntu (versión 20.04 LTS ) de su página oficial [Ubuntu](https://ubuntu.com/download "Pagina oficial de Ubuntu").
 
 ![](img/cap_1.png)
 
