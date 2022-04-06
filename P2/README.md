@@ -6,8 +6,8 @@ El objetivo de la práctica 2 son:
 
 <ul>
 
-    <li>Instalar la librería ncurses en Linux</li>
-    <li>Crear un juego sencillo tipo "pong" partiendo del ejemplo del movimiento de la pelotita</li>
+    - Instalar la librería ncurses en Linux </li>
+    - Crear un juego sencillo tipo "pong" partiendo del ejemplo del movimiento de la pelotita </li>
 </ul>
 
 
