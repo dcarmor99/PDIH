@@ -2,14 +2,14 @@
 
 *Autor: Daniel Carrasco Moreno (Grado de Ingeniería Informática, Universidad de Granada)*
 
+<div style="text-align: justify">
 El objetivo de la práctica 2 son:
 
 <ul>
-
-    - Instalar la librería ncurses en Linux </li>
-    - Crear un juego sencillo tipo "pong" partiendo del ejemplo del movimiento de la pelotita </li>
+    - Instalar la librería ncurses en Linux 
+    - Crear un juego sencillo tipo "pong" partiendo del ejemplo del movimiento de la pelotita 
 </ul>
-
+</div>
 
 <div style="text-align: justify">
 En la primera parte de la práctica 2 vamos a instalar la librería ncurses, esencial para comenzar a realizar las siguientes partes de la práctica.
