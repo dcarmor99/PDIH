@@ -19,6 +19,7 @@ Para instalar hacemos uso del siguiente comando:
 ```Bash
 sudo apt-get install libncurses5-dev libncursesw5-dev
 ```
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 
 
 ![](img/cap_1.png)
