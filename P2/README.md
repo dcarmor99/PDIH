@@ -74,7 +74,7 @@ El programa en resumidas cuentas, lo que hace es , en un bucle infinito dibujar 
 
 Antes de realizar el cálculo de la siguiente posición, se hace una breve interrupcion de la ejecución de un DELAY de 30000 microsegundos.
 
-Para compilar:
+Para compilar:<br/>
 ![](img/cap_4.png)
 
 </div>
