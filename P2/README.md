@@ -60,6 +60,23 @@ Código del programa (ventana.c):
 
 </div>
 <br/>
+<div style="text-align: center"><img src="img/cap_2.png" /></div>
 <div style="text-align: center"><img src="img/cap_3.png" /></div>
 
 <div style=""><img src="img/gif_1.gif" /></div>
+
+#### Programa 2 : Mover una "pelotita" en pantalla
+<div style="text-align: justify">
+
+En este ejemplo se va a hacer el movimiento de una pelota (que no es más que el carácter 'o') en pantalla.
+
+El programa en resumidas cuentas, lo que hace es , en un bucle infinito dibujar el caracter 'o' en distintas posiciones, en un rango horizontal determinado por max_y y max_x. Cuando la posición de 'o' sobrepase dicho umbral, se cambia la dirección (que no es más que multiplicar por -1, sentido opuesto).
+
+Antes de realizar el cálculo de la siguiente posición, se hace una breve interrupcion de la ejecución de un DELAY de 30000 microsegundos.
+
+Para compilar:
+![](img/cap_4.png)
+
+</div>
+<div style=""><img src="img/cap_5.png" /></div>
+<div style=""><img src="img/ex_2.gif" /></div>
