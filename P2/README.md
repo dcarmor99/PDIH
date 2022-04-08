@@ -80,3 +80,30 @@ Para compilar:<br/>
 </div>
 <div style=""><img src="img/cap_5.png" /></div>
 <div style=""><img src="img/ex_2.gif" /></div>
+
+### [2] Juego "pong"
+<div style="text-align: justify">
+La segunda parte de esta práctica, voy a crear una sencilla versión del videojuego "Pong" en C, a partir del ejemplo de la pelotita. 
+Al inicio del juego, he programado una ventana que de la bienvenida y muestre , junto con un sencillo "logo" , los controles del juego para cada jugador.
+
+Tras una pausa de unos 3 segundos, se iniciará el juego en sí mismo. 
+
+`Diseño e implementación`
+
+En primer lugar, el movimiento tanto de la pelota como de cada uno de los 2 jugadores , he utilizado las variables x,y y las variables next_x y next_y, que representan la siguiente posición de la pelota para un instante t.
+
+Al inicio del programa, quiero que la pelota comienze desde el centro del campo, luego para ello el valor de x e y será la mitad de las coordenadas x e y del terminal.
+
+EL movimiento de los jugadores viene determinado por las variables pos_p1_x , pos_p1_y (para el jugador 1 ) y pos_p1_x , pos_p1_y (para el jugador 2).
+
+La dirección de la pelota viene determinado, para cada coordenada, por el valor 1 o -1 en función de si va al campo contrario o le regresa al jugador.
+
+En cuanto al cáculo de los movimientos he seguido el siguiente razonamiento:
+
+- Si la pelota llega a los márgenes tanto superior como lateral del terminal, cambia la dirección.
+- En caso contrario, sigue en la dirección actual. (Avanza 1 para cada coordenada).
+
+- Para lograr, un comportamiento más real y semejante al juego "pong" original, para que la pelota no haga siempre el mismo recorrido, una vez que un jugador puntúe en campo contrario, por medio de un sencillo generador de números aleatorios en el rango del  eje Y de la pantalla, la pelota saldrá desde distintas posiciones al sacar , en lugar de siempre desde el medio campo. Aumentando así su dificultad.
+</div>
+<div style=""><img src="img/partida_pong.gif" /></div>
+
