@@ -56,7 +56,7 @@ void loop()
 
 Video demo del circuito:
 
-![](media/videos/demo_ej_1.MOV)
+![](media/videos/grabacion_ej_1.gif)
 
 [Ejercicio 2]
 
@@ -106,7 +106,7 @@ void loop() { // código del programa principal (se ejecuta repetidamente)
 ```
 Video demo del circuito:
 
-![](media/videos/demo_ej_2.MOV)
+![](media/videos/grabacion_ej_2.gif)
 
 ### [Ejercicio para subir nota - 2] - Alarma por detección de presencia
 
@@ -182,4 +182,4 @@ void loop(){
 ```
 
 Vídeo-demo del circuito:
-![](media/videos/demo_theremin.mov)
+![](media/videos/igligyl.gif)
