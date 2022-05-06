@@ -28,6 +28,7 @@ Partiendo del esquema del Ejemplo del LED, lo único que hacemos es añadir 2 LE
 
 Aquí mostramos el código empleado:
 
+```c
 #define LED_PIN0 13
 #define LED_PIN1 12
 #define LED_PIN2 11
@@ -71,6 +72,7 @@ BOTON == HIGH || BOTON == LOW) encenderemos el led rojo o los otros dos.
 
 Código empleado:
 
+```c
 #define BUTTON_PIN 7
 #define LED_PIN0 13
 #define LED_PIN1 12
