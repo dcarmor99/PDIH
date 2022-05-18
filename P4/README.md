@@ -1,5 +1,5 @@
 # Práctica 4
-<div style="text-align: justify"><img src="media/logo.png" width="100" height="200" /></div>
+<div style="text-align: center"><img src="media/logo.png" width="100" height="200" /></div>
 *Miembros que han realizado esta práctica: Daniel Carrasco Moreno y Antonio Fernández Ortega(Grado de Ingeniería Informática, Universidad de Granada)*
 
 ### Introducción
