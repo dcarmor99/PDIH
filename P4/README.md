@@ -28,11 +28,11 @@ Para realizar este ejercicio, hemos implementado el siguiente código [ejercicio
 
 Código empleado:
 
-![ejercicio1_1](media/ejercicio1_1.png)
+![1](media/1.png)
 
-![ejercicio1_2](media/ejercicio1_2.png)
+![2](media/2.png)
 
-![ejercicio1_3](media/ejercicio1_3.png)
+![3](media/3.png)
 
 El resultado de procesar el archivo `.ps` es el siguiente. Además , se han generado el siguiente [PDF](archivos/ejercicio1.pdf) y el siguiente [JPG](archivos/ejercicio1.jpg):
 
