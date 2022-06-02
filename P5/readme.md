@@ -89,3 +89,29 @@ plot( extractWave(nombre_apellidos, from = 1, to = length(nombre_apellidos)), ma
 
 ![](imgs/Nombre_Apellidos.png)
 
+6. Pasarle un filtro de frecuencia para eliminar las frecuencias entre 10000Hz y 20000Hz
+
+```
+filtrofrecuencia <- bwfilter(nombre_apellidos,f=44100, channel=1, n=1, from=10000, to=20000, bandpass=TRUE, listen = FALSE, output = "Wave")
+listen(filtrofrecuencia)
+plot(extractWave(filtrofrecuencia, from = 1, to=393984))
+```
+
+7. Almacenar la señal obtenida como un fichero WAV denominado “mezcla.wav”. 
+
+```
+writeWave(filtrofrecuencia, file.path("./sonidos/mezcla.wav"))
+```
+
+8.  Cargar un nuevo archivo de sonido, aplicarle eco y a continuación darle la vuelta al sonido. Almacenar la señal obtenida como un fichero WAV denominado "alreves.wav".
+
+Como había que utilizar otro audio he decidido usar el audio perro.wav.
+
+```
+nuevo <- readWave('./sonidos/perro.wav')
+str(nuevo)
+nuevoeco <- echo(nuevo, f=22050, amp=c(0.8,0.4,0.2), delay=c(1,2,3), output="Wave")
+alreves <- revw(nuevoeco, output="Wave")
+listen(alreves)
+writeWave(alreves, file.path("./sonidos/alreves.wav"))
+```
