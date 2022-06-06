@@ -1,4 +1,6 @@
 # Práctica 4: Experimentación con el sistema de salida de sonido
+`Práctica realizada por los alumnos de la Universidad de Granada: Daniel Carrasco Moreno y Antonio Fernández Ortega `
+
 
 Para el desarrollo de la práctica se propone el uso de las siguientes funciones estudiadas previamente en el seminario 5:
  - `readWave()`: Leer una onda de sonido.
